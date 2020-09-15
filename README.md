@@ -1,4 +1,5 @@
-# Сергей Максимов - Аналитик данных
+# Data Analyst
+sergey.maximov123@gmail.com  или [телеграм](t.me/black_bloded_blues)
 
 ## В моем репозитории собраны проекты, которые я защитил во время учебы в [*Яндекс.Практикум*](https://praktikum.yandex.ru/data-analyst)
 ![alt text](https://epidemicworld.com/upload/iblock/da9/da984ded7ead8d6de2f3b1e50c46b770.jpg)
