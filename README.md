@@ -36,6 +36,7 @@ sergey.maximov123@gmail.com  или [Телеграм](https://t.me/black_bloode
 [5. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/sergey-maximov-da/praktikum/tree/master/Исследование%20объявлений%20о%20продаже%20квартир)
 
 Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир
+
 [Ссылка на nbviewer](https://nbviewer.jupyter.org/github/sergey-maximov-da/praktikum/tree/master/Исследование%20объявлений%20о%20продаже%20квартир/)
 
 
