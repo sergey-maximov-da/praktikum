@@ -74,6 +74,7 @@ sergey.maximov123@gmail.com  или [Телеграм](https://t.me/black_bloode
 [11.Дипломный проект](https://github.com/sergey-maximov-da/praktikum/tree/master/Дипломный%20проект)
 
 Завершающий проект, включающий себя анализ A/B тест, загрузку данных при помощи SQL, анлиз интеренет магазина
+
 [Ссылка на nbviewer](https://nbviewer.jupyter.org/github/sergey-maximov-da/praktikum/tree/master/Дипломный%20проект/)
 
 
