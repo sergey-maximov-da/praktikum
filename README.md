@@ -1,7 +1,7 @@
 # Data Analyst
 sergey.maximov123@gmail.com  или [Телеграм](https://t.me/black_blooded_blues)
 
-## В моем репозитории собраны проекты, которые я защитил во время учебы в [*Яндекс.Практикум*](https://praktikum.yandex.ru/data-analyst)
+## В моем репозитории собраны проекты, которые я защитил в [*Яндекс.Практикум*](https://praktikum.yandex.ru/data-analyst)
 ![alt text](https://epidemicworld.com/upload/iblock/da9/da984ded7ead8d6de2f3b1e50c46b770.jpg)
 
 ### Мои проекты и их краткое описание:
