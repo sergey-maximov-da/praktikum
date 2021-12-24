@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voltaic-syntax-302214",
+  "private_key_id": "e18198d5466a2a5c79d71856cd135e1addc63dcf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCVlEek0DAO29HE\nCnqfwnAX3Iodc+OYZJ8lXc/ZO9msd2uU373mwFGGaZnUlbLeR4k6BVX/aMdt2sis\nFt5Il7ZoPsCEGyLr89odIczc97g/KnCvM+KBl9EcGKHV246f00hKqeQ25U0TLVWy\nmcbb6bRR0QLVIpKg1eApuGoW1GTC7BGuYfOj8TNgWZDG7MljPgMfEvo9Z5NlNJLH\nC5aI4OR5SDtac/sW0gHPg68lI8n0guEhg9T8UC3/zIOdl6TKZ9HQ5dBlkH7prAZh\no2iwxt8xI/zUkEDGpoMeoEOl4GnuooP9Zg/KOLe/c+cZWR8zli+ajwN7CwpMJBIC\nydyU77eTAgMBAAECggEARQXxsYooQxMIzzAOud4dn8UzLrgllFMKZVHO8e1+WumY\niVBd7zdb52yfgcu6iHv2RQHlV0Dglj7ZTyAWXuUzVRNv/wYOrVcPlVXdlTHyoaNR\n8Gc+5JJL+m0bcPYp8HKs71dKalKRqIHJA+uWKjDD9uU+K2ASzYkkMdxZiENmY9Oa\n4LiuFM9VqU4dFRBVRaM8bXb0QNoZglUf2S4JfznLGvNe5xK3t8cbbJ+xFmnJwONX\neNtsaR8GpH71kO3AhBJ6Ndo65aRiemFRD/BSfKkcch7DpfytRwp/5QHYWyqVqQxv\nlJrwdbqV5b9Hw9x9i7SJ+FceXLBAIaDXjW5H7TmCIQKBgQDNFzxKFem9OtvCm8OS\nxazUw08j4vgMJUWrplPq2voT0xDhG6C9RKK4o3lSL69eijRsJ6Yat1E8XOoDt1wt\nGxrqntYiC9YUKy0SVIeQVIb/tWc4owpYAZOkNiHZ8IvbFrghWqjycUQ6OPpF9lyH\nZyyyG5e/K5wJ0LZNJ6NuvOKqWwKBgQC6tX1WJP/wyFxhzlaVSfHvoGNN5fh0tSbf\nSV4azDq8FwAgtpMwMCgdPZ8UXJXjlFFU/k+oDFGU6gdFcM+X+NHEo3A6IGAGspzb\nSe1IpjzIR1hsdJBCgHDkf9E03GWiKeyUtMPPWEkx3KOrxqoqU6p4fn/jA8A5vaJY\nBu7JCJx9KQKBgGHiWB0H7mIpaF+ulh5ECGQXv3riRf8N/v2Yye6KitbRYvn9hK8w\nxfUX2LyYE7wsfC6ukcGogrYrpmkVp4HDsQoPuyXOvmMr5DweagFBxpjezKAkeLhe\nMEgsqeVpwGZVppYMvhvQYX7kWNbxaWIapSNwtfFA8B1jJs8WPxOIRSqHAoGAOLdQ\n744lwTrb9Un8uzTPLX+HKu6k3q74s/NRhsprPR+vhkBvzb+TL+68GC9XyN4RJsRp\n5h532ciNlOaD6SJIdnc/bCjRgrdXNrXqQptc82nYznlKKSljIcZCAtDAftZFa5bN\ntHqZIXBot5GNt3Xa3uduacOF7QRSAHN6rc7T2qECgYBDU3b8PEDYThKuciveePiL\ndxSg5rDy0YS03tq/y54HQkhs5pAk+IvRodxekMBZt9nptYcRL8p4xXEvqFo4WkXe\ngp1qid7NEKUQBceQDUVMT3Tga9k9zXR0fUQvD9NzaG0FbJ9+cYm1XDC5ImpttDvD\n0taPu+2UMxDy6ip9UgRbbQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "spread@voltaic-syntax-302214.iam.gserviceaccount.com",
+  "client_id": "117487946596655001424",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spread%40voltaic-syntax-302214.iam.gserviceaccount.com"
+}
